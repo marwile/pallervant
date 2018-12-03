@@ -1,0 +1,61 @@
+/*************************************
+pallervant-start 
+maria ågren
+************************************************/
+
+/*reset*/
+body{
+    margin:0;
+    padding:0;
+    background-color:#f7f5f2;
+}
+.wrapper{
+    width:1000px;
+    max-width:90%;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+
+
+}
+.wrapper-left{
+    width:400px;
+    float:left;
+
+}
+.wrapper-right{
+    width:400px;
+    float:left;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family:'Lato', sans-serif;
+    font-weight:100;
+    color:#1e1e1d;
+}
+h1{
+    font-size:3em;
+}
+li{
+    list-style:none;
+    padding:1em 0 1em 0;
+}
+
+a{
+    
+   
+    color:#353135;
+    text-transform:uppercase;
+    font-family:'Lato', sans-serif;
+    letter-spacing: 0.2em;
+}
+a:hover{
+    background-color:rgba(145, 255, 0, 0.418);
+   
+   
+    
+}
+
+/*images********************/
+.profile{
+    max-width:200px;
+}
